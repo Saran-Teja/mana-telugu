@@ -1,0 +1,14 @@
+[
+  {
+    "title": "The Melody of Telugu",
+    "summary": "An exploration into the golden era of Telugu music.",
+    "image": "/images/classic1.jpg",
+    "video": "https://www.youtube.com/watch?v=example1"
+  },
+  {
+    "title": "Legends of Lyrics",
+    "summary": "Stories behind the most beloved Telugu film songs.",
+    "image": "/images/classic2.jpg",
+    "video": "https://www.youtube.com/watch?v=example2"
+  }
+]
